@@ -9,9 +9,12 @@ I co-authored [an introductory Python textbook](https://us.sagepub.com/en-us/nam
 My teaching experience, with some details not found on my resume:
 * **October–December 2022**: Python Crash Courses at the Plymouth Library
   * Anticipating teaching four more crash courses in Fall 2023.
+  * Actively brainstorming plans for 2024 and beyond.
 * **May–September 2021**: Adjunct Instructor at Southern New Hampshire University
   * First cohort of SNHU's MS of Business Analytics Program
+  * Entirely online
 * **August 2018–February 2019** and **November 2019–May 2020**: Instructor for two Trilogy Analytics Bootcamps
+  * mostly in person; pivotted to online due to the COVID-19 pandemic
   * 🤓 I contributed several PRs to the curriculum, and received positive feedback from curriculum engineers.
 * **July–December 2015**: English Teaching Fellow at the Ifakara Health Institute in Tanzania
   * taught stats/programming to scientists & supported their preparation of technical manuscripts and grant applications

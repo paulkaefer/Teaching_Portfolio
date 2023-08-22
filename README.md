@@ -24,3 +24,5 @@ I regularly guide colleagues in using `git`/GitHub, writing clear & concise SQL 
 
 ## Conference Participation
 I have presented at several conferences. Highlights include the 2018 SAS Global Forum and the 2013 IEEE robotics conference. See my [`Publications/`](https://github.com/paulkaefer/Teaching_Portfolio/tree/main/Publications) and [`Photos/`](https://github.com/paulkaefer/Teaching_Portfolio/tree/main/Photos) folders for a sample of relevant files, and additional details at [paulkaefer.com/publications](https://paulkaefer.com/publications/).
+
+<!-- future idea: ## Philosophy -- mention sharing resources, collaboration, culture of learning -->

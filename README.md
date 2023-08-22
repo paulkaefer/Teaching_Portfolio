@@ -16,7 +16,7 @@ My teaching experience, with some details not found on my resume:
 * **August 2018–February 2019** and **November 2019–May 2020**: Instructor for two Trilogy Analytics Bootcamps
   * mostly in person; pivoted to online due to the COVID-19 pandemic
   * 🤓 I contributed several PRs to the curriculum, and received positive feedback from curriculum engineers.
-* **July–December 2015**: English Teaching Fellow at the Ifakara Health Institute in Tanzania 🇹🇿
+* **July–December 2015**: English Teaching Fellow at the [Ifakara Health Institute](https://en.wikipedia.org/wiki/Ifakara_Health_Institute) in Tanzania 🇹🇿
   * taught stats/programming to scientists & supported their preparation of technical manuscripts and grant applications
   * 🚙 see the Tanzania folder for a somewhat humorous presentation I made with the intent of demonstrating non-standard methods of visualizing data
 

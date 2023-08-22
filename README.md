@@ -1,6 +1,6 @@
 # Paul's Teaching Portfolio
 I have amassed several years of teaching experience alongside full-time tech jobs. Feel free to check out my files here. If you use anything for your own teaching, I would appreciate you citing your sources!
-![Photo of me with the textbook I co-authored.](Photos/Paul_with_Python_textbook.jpg | width=200)
+<img src="Photos/Paul_with_Python_textbook.jpg" align="right" alt="Photo of me with the textbook I co-authored." width="200" <!--height="whatever"-->>
 
 ## Experience
 * **October–December 2022**: Python Crash Courses at the Plymouth Library

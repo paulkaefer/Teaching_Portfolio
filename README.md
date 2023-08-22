@@ -1,9 +1,7 @@
 # Paul's Teaching Portfolio
 <img src="https://raw.githubusercontent.com/paulkaefer/Teaching_Portfolio/main/Photos/Paul_with_Python_textbook.jpg" align="right" alt="Photo of me with the textbook I co-authored." title="Photo of me with the textbook I co-authored." width="200">
-<p align="right">
-    <em>I co-authored an introductory Python textbook!</em>
-</p>
 I have amassed several years of teaching experience alongside full-time tech jobs. Feel free to check out my files here. If you use anything for your own teaching, I would appreciate you citing your sources!
+<p align="right">I co-authored an introductory Python textbook!</p>
 
 ## Experience
 * **October–December 2022**: Python Crash Courses at the Plymouth Library

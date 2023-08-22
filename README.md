@@ -19,3 +19,5 @@ My teaching experience, with some details not found on my resume:
 
 I regularly guide colleagues in using `git`/GitHub, writing clear & concise SQL queries, and setting up software (EC2 instances, Data Grip, R/Python environments, `ssh` aliases, etc.).
 
+## Conference Participation
+I have presented at several conferences. Highlights include the 2018 SAS Global Forum and the 2013 IEEE robotics conference. See my [`Publications/`](https://github.com/paulkaefer/Teaching_Portfolio/tree/main/Publications) folder for releant files, and additional details at [paulkaefer.com/publications](https://paulkaefer.com/publications/).

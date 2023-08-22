@@ -4,6 +4,8 @@ I have amassed several years of teaching experience alongside full-time tech job
 <!--<p align="right">I co-authored an introductory Python textbook!</p>-->
 
 ## Experience
+I co-authored [an introductory Python textbook](https://us.sagepub.com/en-us/nam/introduction-to-python-programming-for-business-and-social-science-applications/book268933), which was published in August 2020.
+
 * **October–December 2022**: Python Crash Courses at the Plymouth Library
   * Anticipating teaching four more crash courses in Fall 2023.
 * **May–September 2021**: Adjunct Instructor at Southern New Hampshire University

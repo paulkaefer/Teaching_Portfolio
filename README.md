@@ -10,6 +10,7 @@ I have amassed several years of teaching experience alongside full-time tech job
   * 🤓 I contributed several PRs to the curriculum, and received positive feedback from curriculum engineers.
 * **July–December 2015**: English Teaching Fellow at the Ifakara Health Institute in Tanzania
   * taught stats/programming to scientists & supported their preparation of technical manuscripts and grant applications
+  * 🚙 see the Tanzania folder for a somewhat humorous presentation I made with the intent of demonstrating non-standard methods of visualizing data
 
 I regularly guide colleagues in using `git`/GitHub, writing clear & concise SQL queries, and setting up software (EC2 instances, Data Grip, R/Python environments, `ssh` aliases, etc.).
 

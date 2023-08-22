@@ -7,6 +7,7 @@ I have amassed several years of teaching experience alongside full-time tech job
 * **May–September 2021**: Adjunct Instructor at Southern New Hampshire University
   * First cohort of SNHU's MS of Business Analytics Program
 * **August 2018–February 2019** and **November 2019–May 2020**: Instructor for two Trilogy Analytics Bootcamps
+  * I contributed several PRs to the curriculum, and received positive feedback from curriculum engineers.
 * **July–December 2015**: English Teaching Fellow at the Ifakara Health Institute in Tanzania
   * taught stats/programming to scientists & supported their preparation of technical manuscripts and grant applications
 

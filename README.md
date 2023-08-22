@@ -14,7 +14,7 @@ My teaching experience, with some details not found on my resume:
   * First cohort of SNHU's MS of Business Analytics Program
   * Entirely online
 * **August 2018–February 2019** and **November 2019–May 2020**: Instructor for two Trilogy Analytics Bootcamps
-  * mostly in person; pivotted to online due to the COVID-19 pandemic
+  * mostly in person; pivoted to online due to the COVID-19 pandemic
   * 🤓 I contributed several PRs to the curriculum, and received positive feedback from curriculum engineers.
 * **July–December 2015**: English Teaching Fellow at the Ifakara Health Institute in Tanzania
   * taught stats/programming to scientists & supported their preparation of technical manuscripts and grant applications

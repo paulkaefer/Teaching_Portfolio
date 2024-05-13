@@ -7,8 +7,7 @@ I have amassed several years of teaching experience alongside full-time tech job
 I co-authored [an introductory Python textbook](https://us.sagepub.com/en-us/nam/introduction-to-python-programming-for-business-and-social-science-applications/book268933), which was published in August 2020.
 
 My teaching experience, with some details not found on my resume:
-* **October–December 2022**: Python Crash Courses at [Plymouth Library](https://www.hclib.org/about/locations/plymouth) 📚
-  * Anticipating teaching four more crash courses in Fall 2023.
+* **Fall 2022 & Fall 2023**: Python Crash Courses at [Plymouth Library](https://www.hclib.org/about/locations/plymouth) 📚
   * Actively brainstorming plans for 2024 and beyond.
 * **May–September 2021**: Adjunct Instructor at Southern New Hampshire University
   * First cohort of SNHU's MS of Business Analytics Program

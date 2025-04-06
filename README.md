@@ -7,8 +7,8 @@ I have amassed several years of teaching experience alongside full-time tech job
 I co-authored [an introductory Python textbook](https://us.sagepub.com/en-us/nam/introduction-to-python-programming-for-business-and-social-science-applications/book268933), which was published in August 2020.
 
 My teaching experience, with some details not found on my resume:
-* **Fall 2024—present**: Adjunct Professor at the University of St. Thomas, teaching the graduate course SEIS 632: Data Analytics and Visualization. See [my faculty page](https://software.stthomas.edu/about/faculty-staff/biography/paul-kaefer/) for more details.
-* **Fall 2022 & Fall 2023**: Python Crash Courses at [Plymouth Library](https://www.hclib.org/about/locations/plymouth) 📚
+* **Fall 2024–present**: Adjunct Professor at the University of St. Thomas, teaching the graduate course SEIS 632: Data Analytics and Visualization. See [my faculty page](https://software.stthomas.edu/about/faculty-staff/biography/paul-kaefer/) for more details.
+* **Fall 2022, Fall 2023, and Fall 2024**: Python Crash Courses at [Plymouth Library](https://www.hclib.org/about/locations/plymouth) 📚
   * Actively brainstorming plans for 2024 and beyond.
 * **May–September 2021**: Adjunct Instructor at Southern New Hampshire University
   * First cohort of SNHU's MS of Business Analytics Program

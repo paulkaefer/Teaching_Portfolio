@@ -7,8 +7,9 @@ I have amassed several years of teaching experience alongside full-time tech job
 I co-authored [an introductory Python textbook](https://us.sagepub.com/en-us/nam/introduction-to-python-programming-for-business-and-social-science-applications/book268933), which was published in August 2020.
 
 My teaching experience, with some details not found on my resume:
-* **Fall 2024–present**: Adjunct Professor at the University of St. Thomas, teaching the graduate course SEIS 632: Data Analytics and Visualization. See [my faculty page](https://software.stthomas.edu/about/faculty-staff/biography/paul-kaefer/) for more details.
-  * The curriculum I developed is primarily Tableau and Microsoft Power BI, but we also use a bit of Python (for ML models) and Docker (to run SQL Server).
+* **Fall 2024–present**: Adjunct Professor at the University of St. Thomas ([my faculty page](https://software.stthomas.edu/about/faculty-staff/biography/paul-kaefer/))
+  * I teach the graduate course SEIS 632: Data Analytics and Visualization.
+  * The curriculum I developed primarily uses Tableau and Microsoft Power BI for data storytelling, but we also use a bit of Python (for ML models) and Docker (to run SQL Server).
 * **Fall 2022, Fall 2023, and Fall 2024**: Python Crash Courses at [Plymouth Library](https://www.hclib.org/about/locations/plymouth) 📚
   * Actively brainstorming plans for 2024 and beyond.
 * **May–September 2021**: Adjunct Instructor at Southern New Hampshire University

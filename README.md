@@ -11,14 +11,14 @@ My teaching experience, with some details not found on my resume:
   * I teach the graduate course SEIS 632: Data Analytics and Visualization.
   * The curriculum I developed primarily uses Tableau and Microsoft Power BI for data storytelling, but we also use a bit of Python (for ML models) and Docker (to run SQL Server).
 * **Fall 2022, Fall 2023, and Fall 2024**: Python Crash Courses at [Plymouth Library](https://www.hclib.org/about/locations/plymouth) 📚
-  * Actively brainstorming plans for 2024 and beyond.
+  * Free workshops for library patrons to get started coding in Python.
 * **May–September 2021**: Adjunct Instructor at Southern New Hampshire University
   * First cohort of SNHU's MS of Business Analytics Program
   * Entirely online
 * **August 2018–February 2019** and **November 2019–May 2020**: Instructor for two Trilogy Analytics Bootcamps
   * mostly in person; pivoted to online due to the COVID-19 pandemic
   * 🤓 I contributed several PRs to the curriculum, and received positive feedback from curriculum engineers.
-* **July–December 2015**: English Teaching Fellow at the [Ifakara Health Institute](https://en.wikipedia.org/wiki/Ifakara_Health_Institute) in Tanzania 🇹🇿
+* **July–December 2015**: English Teaching Fellow at the [Ifakara Health Institute](https://en.wikipedia.org/wiki/Ifakara_Health_Institute) in Tanzania
   * taught stats/programming to scientists & supported their preparation of technical manuscripts and grant applications
   * 🚙 see [the Tanzania folder](https://github.com/paulkaefer/Teaching_Portfolio/tree/main/Tanzania) for a somewhat humorous presentation I made with the intent of demonstrating non-standard methods of visualizing data
 

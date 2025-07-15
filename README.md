@@ -22,7 +22,7 @@ My teaching experience, with some details not found on my resume:
   * taught stats/programming to scientists & supported their preparation of technical manuscripts and grant applications
   * 🚙 see [the Tanzania folder](https://github.com/paulkaefer/Teaching_Portfolio/tree/main/Tanzania) for a somewhat humorous presentation I made with the intent of demonstrating non-standard methods of visualizing data
 
-I regularly guide colleagues in using `git`/GitHub, writing clear & concise SQL queries, and setting up software (EC2 instances, Data Grip, R/Python environments, `ssh` aliases, etc.).
+I regularly guide colleagues in using `git`/GitHub, writing clear & concise SQL queries, and working with various software (EC2 instances, Terraform, Data Grip, R/Python environments, `ssh` aliases, etc.).
 
 ## Conference Participation
 I have presented at several conferences. Highlights include the 2018 SAS Global Forum and the 2013 IEEE robotics conference. See my [`Publications/`](https://github.com/paulkaefer/Teaching_Portfolio/tree/main/Publications) and [`Photos/`](https://github.com/paulkaefer/Teaching_Portfolio/tree/main/Photos) folders for a sample of relevant files, and additional details at [paulkaefer.com/publications](https://paulkaefer.com/publications/).

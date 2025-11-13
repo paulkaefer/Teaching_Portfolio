@@ -3,3 +3,7 @@
 
 # Notepad++:
 *.bak
+
+# PyCharm:
+*.idea*
+
